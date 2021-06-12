@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+김정현의 과제용 지킬 블로그입니다!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+20171719
 
 ### Contact me
 
