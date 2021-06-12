@@ -53,10 +53,13 @@ WebIOPi(서버)를 이용해 라즈베리 파이와 어플리케이션을 연결
 ![결과2 화염감지](/images/pi_10.jpg){: width="300" height="300"}
 - 어플을 이용해 조명을 킨 상황 & 화염이 감지된 상황
 
-![조명온오프](/images/run.gif){: width="300" height="300"}
+![조명온오프1](/images/run.gif){: width="300" height="300"}
 - 조명 온오프
 
 이렇게 어플을 이용해 미니어처 집의 조명은 껐다 킬 수 있다.
+
+![조명온오프2](/images/turnonoff.gif){: width="300" height="300"}
+- 미니어처 집 조명 
 
 ---
 
