@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[wjdgus5425@gmail.com](mailto:email@domain.com)
+[wjdgus5425@gmail.com](mailto:wjdgus5425@gmail.com)
