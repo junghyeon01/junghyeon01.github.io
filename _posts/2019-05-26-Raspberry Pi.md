@@ -6,7 +6,7 @@ title: 라즈베리 파이를 이용한 사물 인터넷
 
 **라즈베리 파이(Raspberry Pi)**를 이용한 임베디드 실습으로 팀원들과 프로젝트를 진행했다!
 
-![전체설계도](/images/pi_1.png){: width="100" height="250"}
+![전체설계도](/images/pi_1.png){: width="600" height="500"}
 
 다음의 사진은 우리가 프로젝트의 전체적인 계획을 이미지화 시킨 모습이다.
 
@@ -25,35 +25,35 @@ title: 라즈베리 파이를 이용한 사물 인터넷
 
 
 
-![준비사진1](/images/pi_2.jpg){: width="100" height="100"}
-![준비사진2](/images/pi_3.jpg){: width="100" height="100"}
+![준비사진1](/images/pi_2.jpg){: width="300" height="300"}
+![준비사진2](/images/pi_3.jpg){: width="300" height="300"}
 
 - 준비 과정
 
-![준비사진3](/images/pi_4.jpg){: width="100" height="100"}
+![준비사진3](/images/pi_4.jpg){: width="300" height="300"}
 - 우리가 준비한 미니어처 집
 
-![WebIOPi준비](/images/pi_5.png){: width="250" height="200"}
+![WebIOPi준비](/images/pi_5.png){: width="600" height="450"}
 - 서버 준비
 
 WebIOPi(서버)를 이용해 라즈베리 파이와 어플리케이션을 연결했다.
 
-![웹인벤터 블록](/images/pi_6.png){: width="300" height="100"}
+![웹인벤터 블록](/images/pi_6.png){: width="600" height="450"}
 - 어플리케이션 준비
 
 어플은 앱 인벤터를 이용해 간단하게 작업했다.
 
-![어플사진1](/images/pi_7.png){: width="100" height="200"}
-![어플사진2](/images/pi_8.png){: width="100" height="200"}
+![어플사진1](/images/pi_7.png){: width="300" height="400"}
+![어플사진2](/images/pi_8.png){: width="300" height="400"}
 - 어플
  
 어플리케이션은 이렇게 간단하게 만들었다.
 
-![결과1 조명](/images/pi_9.jpg){: width="100" height="100"}
-![결과2 화염감지](/images/pi_10.jpg){: width="100" height="100"}
+![결과1 조명](/images/pi_9.jpg){: width="300" height="300"}
+![결과2 화염감지](/images/pi_10.jpg){: width="300" height="300"}
 - 어플을 이용해 조명을 킨 상황 & 화염이 감지된 상황
 
-![조명온오프](/images/run.gif){: width="100" height="100"}
+![조명온오프](/images/run.gif){: width="300" height="300"}
 - 조명 온오프
 
 이렇게 어플을 이용해 미니어처 집의 조명은 껐다 킬 수 있다.
